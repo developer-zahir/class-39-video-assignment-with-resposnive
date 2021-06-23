@@ -1241,3 +1241,13 @@ footer {
     line-height: 41px;
     font-weight: 300;
 }
+.p-heading h1 {
+    margin: 15px 0;
+    font-size: 50px;
+}.p-heading h4 {
+    font-size: 22px;
+    font-weight: 500;
+    margin: 13px 0;
+}.p-content {
+    padding: 14px 36px;
+}
