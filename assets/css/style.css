@@ -1235,3 +1235,9 @@ footer {
   box-sizing: border-box;
   height: 246px;
 }
+.p-content ul li {
+    color: #a7a7a7;
+    font-size: 20px;
+    line-height: 41px;
+    font-weight: 300;
+}
